@@ -47,13 +47,6 @@ public class CoinChange {
     			}
     		}
     	}
-    	/*System.out.println("\nTable:");
-    	for(int i = 0; i < m; i++) {
-    		for(int j = 0; j < n+1; j++) {
-    			System.out.print(table[i][j] + " ");
-    		}
-    		System.out.println();
-    	}*/
     	result = table[m - 1][n];
     	return result;
     }
