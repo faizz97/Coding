@@ -2,6 +2,9 @@
 A repository containing codes for some of the standard CS problems, basic and advanced data structures and algorithms that I implement while doing competitive programming and interview preparation.
 Programming language used is Java.
 
+# Blog
+Occasionally, I write about DS and Algorithms here: https://competitivecodingusingalgorithms.blogspot.in/
+
 # Contribution
 Please contribute to this repository to help it make better. Any change like new question, code improvement, doc improvement etc. is very welcome. Just send me a pull request and I will review the request and approve it if it looks good.
 
